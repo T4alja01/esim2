@@ -22,6 +22,5 @@ if(isset($_GET['nappi']))
 
 
 
-<p>text</p>
 
 <?php include 'footer.php'; ?>

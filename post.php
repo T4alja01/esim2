@@ -22,6 +22,4 @@ if(isset($_POST['nappi']))
 
 
 
-<p>text</p>
-
 <?php include 'footer.php'; ?>
