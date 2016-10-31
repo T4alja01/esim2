@@ -1,3 +1,4 @@
+<?php include 'menu.php'; ?>
 <h1>Testataan post-metodia</h1>
 <form method="post" action="post.php">
 <label>Etunimi</label>
@@ -6,7 +7,7 @@
 <label>Sukunimi</label>
 <input type="text" name="sn" required>
 <br>
-<input type="submit" name="nappi" value="lähetä">
+<input type="submit" name="nappi" value="Lähetä">
 </form>
 
 <?php
@@ -22,3 +23,5 @@ if(isset($_POST['nappi']))
 
 
 <p>text</p>
+
+<?php include 'footer.php'; ?>
