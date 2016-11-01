@@ -13,6 +13,7 @@
 <li><a href="get.php">Get lomake</a>></li>
 <li><a href="array.php">Array</a>></li>
 <li><a href="asiakas.php">asiakas</a>></li>
+<li><a href="login.php">login</a>></li>
 </ul>
 </div>
 <div id="sisalto">

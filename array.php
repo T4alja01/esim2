@@ -7,7 +7,7 @@ $asiakkaat=array(
 	array("en"=>'Jussi','sn'=>'Pitkänen'),
 	array("en"=>'Jonna','sn'=>'Järvinen')
 	);
-echo "<h2>Print_r</h2>";
+echo "<h2>Taulukko</h2>";
 print_r($asiakkaat);
 ?>
 <h2>Tulostus foreach-loopilla</h2>
