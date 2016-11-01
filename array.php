@@ -28,3 +28,4 @@ foreach ($asiakkaat as $rivi)
 	?>
 </TABLE>
 
+<?php include 'footer.php'; ?>

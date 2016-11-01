@@ -9,11 +9,14 @@
 <ul>
 <li>Valikko</li>
 <li><a href="index.php">Etusivu</a>></li>
+<li><a href="login.php">Kirjaudu sisään</a>></li>
 <li><a href="post.php">Post lomake</a>></li>
 <li><a href="get.php">Get lomake</a>></li>
 <li><a href="array.php">Array</a>></li>
-<li><a href="asiakas.php">asiakas</a>></li>
-<li><a href="login.php">login</a>></li>
+<li><a href="asiakas.php">Asiakkaat</a>></li>
+<li><a href="SQL-koodi.php">Sql-koodi</a>></li>
+<li><a href="logout.php">Kirjaudu ulos</a>></li>
+
 </ul>
 </div>
 <div id="sisalto">
