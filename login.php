@@ -2,7 +2,7 @@
 
 <form method="POST" action="login.php">
 <TABLE BORDER=0>
-	<tr><td>tunnus</td> <td><input type="text" name=tunnus"></td></td></tr>
+	<tr><td>tunnus</td> <td><input type="text" name=tunnus"></td></tr>
 	<tr><td>salasana</td> <td><input type="password" name=sala></td></td></tr>
 
 	<tr><td></td><td><input type="submit" name="nappi" value="Kirjaudu">
